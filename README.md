@@ -8,7 +8,7 @@
 </p>
 
 ### 1. Simple Introduce
-- I'm **Front-end developer** at [**prograbbit™**](https://github.com/Prograbbit "prograbbit™'s GitHub page")
+- I'm **Front-end developer** at [**prograbbit™**](https://github.com/Prograbbit "prograbbit™'s GitHub page")(Personal team)
 - I'm studying at [**KwangWoon university**](https://www.kw.ac.kr/ko/ "KwangWoon university's homepage"), majoring software
 - I have my own **personal server computer**
 - Available language : :kr: Korean, :us:/:uk: English
