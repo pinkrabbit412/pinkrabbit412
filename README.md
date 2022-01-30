@@ -13,25 +13,17 @@
 - I have my own **personal server computer**
 - Available language : :kr: Korean, :us:/:uk: English
 
-<br />
-
 ### 2. Skills
 <img src="https://img.shields.io/badge/Python-FF0000?logo=Python&color=FFD43B&style=flat" /> <img src="https://img.shields.io/badge/HTML5-000000?logo=HTML5&color=ebebeb&style=flat" /> <img src="https://img.shields.io/badge/CSS3-000000?logo=CSS3&color=264de4&style=flat" /> <img src="https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&color=323330&style=flat" /> <img src="https://img.shields.io/badge/JQuery-000000?logo=jQuery&color=0868AC&style=flat" /> <img src="https://img.shields.io/badge/C-000000?logo=C&color=blue&style=flat" /> <img src="https://img.shields.io/badge/C++-000000?logo=Cplusplus&color=044F88&style=flat" /> <img src="https://img.shields.io/badge/JAVA-000000?logo=JAVA&color=f89820&style=flat" />
 <br />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?logo=adobephotoshop&color=3C327B&style=flat" /> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?logo=adobepremierepro&color=330D3E&style=flat" /> <img src="https://img.shields.io/badge/Calligraphy-000000?&color=FCACD3&style=flat" /> <img src="https://img.shields.io/badge/Composing-000000?color=FCACD3&style=flat" /> ...etc.
 
-<br />
-
-### 3. Participated
+### 3. Contributed
 - [tweepy/tweepy](https://github.com/tweepy/tweepy/ "GitHub Repository: tweepy")
 - [Rust](https://rust.facepunch.com/ "Facepunch site: Rust") (Musical instruments DLC)
 
-<br />
-
 ### 4. Own Project
 - [Ravit (http://ravit.ml/)](http://ravit.ml/ "Ravit Homepage")
-
-<br />
 
 ### 5. Contact
 <a target="_blank" href="https://twitter.com/pinkrabbit412"><img src="https://img.shields.io/badge/Twitter-%40pinkrabbit412-1da1f2?color=252830&logo=Twitter&style=social" /></a>
