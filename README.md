@@ -30,7 +30,7 @@
 - [Rust](https://rust.facepunch.com/ "Facepunch site: Rust") (Musical instruments DLC)
 
 ### 5. Personal Project
-- [Ravit](https://github.com/pinkrabbit412/Ravit "Ravit Homepage") - `Guide webpage for KwangWoon university's freshman`
+- [Ravit (https://ravit.co.kr)](https://ravit.co.kr "Ravit Homepage") - `Guide webpage for KwangWoon university's freshman`
 - Twitter [@bixby_bot](https://twitter.com/bixby_bot "Twitter @bixby_bot Account page") - `Automatic twitter bot account` (Using [pinkrabbit412/CAROT](https://github.com/pinkrabbit412/CAROT "GitHub Repository: CAROT (Private)"))
 - [prograbbit™ FilePaster](https://github.com/pinkrabbit412/FilePaster "GitHub Repository: FilePaster") - `Free-to-Use Automatic file paster`
 
