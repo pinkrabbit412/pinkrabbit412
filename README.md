@@ -36,6 +36,7 @@
 - Twitter [@bixby_bot](https://twitter.com/bixby_bot "Twitter @bixby_bot Account page") - `Automatic twitter bot account` (Using [pinkrabbit412/CAROT](https://github.com/pinkrabbit412/CAROT "GitHub Repository: CAROT (Private)"))
 - [prograbbit™ FilePaster](https://github.com/pinkrabbit412/FilePaster "GitHub Repository: FilePaster") - `Free-to-Use Automatic file paster`
 - [타르코프 작전현황 보고 (Tarkov Status Report)](https://tarkov.akdong.kr/ "타르코프 작전 현황 보고 (Tarkov Status Report)") - `Escape from Tarkov (Video game) - Hidden status summary page`
+- [타르코프 작전현황 트위치 봇](https://tarkov.akdong.kr/twitch_bot/ "트위치 작전현황봇 소개 페이지") - `World's First Korean Version Escape From Tarkov Twitch Bot`
 
 ### 6. Team Project
 - [당근에디터(CarrotEditor, http://carroteditor.ravit.co.kr/)](http://carroteditor.ravit.co.kr/ "CarrotEditor App page") - `Lightweight Web Image Editor, No install needed` [@devRABBIT-KWU](https://github.com/devRABBIT-KWU "devRABBIT GitHub Team Page")
